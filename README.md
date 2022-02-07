@@ -13,7 +13,7 @@ Know Your Customer (**KYC**) standards are designed to protect financial institu
 :heavy_check_mark:  Automated Vulnerability Test (Slither, MythX, Custom Scripts)  
 :heavy_check_mark:  Manual Security Testing (Manual Code Check, SWC-Registry)
 
-Our list of **KYC Certificates**:<br/>
+Our list with **KYC Certificates**:<br/>
 :green_circle: Contract address: **0xCd7B102d82b9a8F089669d2AFA74ad2A121AC137** and website address [Feblix Finance](https://feblix.finance)
 
 📱 How you can contact us:
